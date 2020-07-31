@@ -11,3 +11,4 @@
 0.0.0.0 tamilrockers.ws
 0.0.0.0 tarac.nl
 0.0.0.0 steampowered.com
+0.0.0.0 4chan.org
